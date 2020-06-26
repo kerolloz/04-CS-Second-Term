@@ -524,6 +524,47 @@
 
 ## Abbreviations
 
+> Sorted alphabetically 
+
+|      |      |
+| :-------------: | :------------- |
+| 3GPP | 3rd Generation Partnership Project |
+| AMPS | Advanced Mobile Phone Services |
+| BWA | Broadband Wireless Access |
+| CDMA | Code-division multiple access |
+| DQPSK | Differential Quadrature Phase Shift Key |
+| DSSS | Direct-Sequence Spread Spectrum |
+| EDGE | Enhanced Data for Global Evolution |
+| EIRP | Effective Isotropic Radiated Power |
+| EM | Electromagnetic |
+| ETS | European Telecommunication Standards Institute |
+| ETSI | European Telecommunication Standards Institute |
+| FCC | Fedral Communication Commission |
+| FDMA | Frequency-division multiple access |
+| FHSS | Frequency-Hopping Spread Spectrum |
+| GPRS | General Packet Radio Service |
+| GSM | Global System for Mobile Communications |
+| HSPA | High Speed Packet Access |
+| IEEE | Institute of Electrical and Electronic Engineer |
+| IETF | Internationl Engineering Task Force |
+| IMT | International Mobile Telecommunications |
+| ISM | Industrial, Scientific, and Medical |
+| ISO | International Organization for Standardization |
+| ITU | International Telecommunication Union |
+| J-TACS | Japanese Total Access Communication System |
+| LTE | Long Term Evolution |
+| NMT | Nordic Mobile Telephone |
+| OFDM | Orthogonal Frequency-Divison Multiplexing |
+| QAM | Quadratic Amplitude Modulation |
+| QPSK | Quadrature Phase Shift Key |
+| RF | Radio Frequency |
+| RSSI | Received Signal Strength Indicator |
+| SNR | Signal-to-Noise Ratio |
+| TACS | Total Access Communication System |
+| TDMA | Time-division multiple access |
+| UMTS | Universal Mobile Telecommunication Service |
+| W3C | World Wide Web Consortium |
+
 *[3GPP]: 3rd Generation Partnership Project
 
 *[AMPS]: Advanced Mobile Phone Services
