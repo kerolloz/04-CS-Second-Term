@@ -1,5 +1,11 @@
 # Wireless Communication
 
+> The following questions and their answers are collected from the _"CCNA Wireless 200-355"_ book.
+> They form the questions listed in the begging of the first 3 chapters of the book:
+1. RF Signals and Modulation (First PDF)
+1. RF Standards (Last PDF)
+1. RF Signals in the Real World (Second PDF)
+
 - Which one of the following is the common standard that defines wireless LAN
   operation?
 
@@ -390,4 +396,128 @@
   ```
   D. Only the Wi-Fi Alliance tests and certifies wireless products according to indus-
   try standards.
+  ```
+
+- An 802.11 transmitter is configured to send a signal on channel 11. Someone reportsa problem receiving the signal, so you investigate and find a second transmitter broad-casting on channel 11. Which one of the following best describes the problem?
+
+  a. Path interference.  
+  b. Adjacent channel interference.  
+  c. Co-channel interference.  
+  d. Cross-channel interference
+
+  ```
+  C. Because both transmitters are using the same channel, the interference is
+  described as co-channel.
+  ```
+
+- Suppose that you place a new 802.11n transmitter in a building, but notice that thereare other signals already coming from transmitters in the same general area. To avoidinterference problems, how much greater should your transmitter’s signal be above allof the others to provide the best signal?
+
+  a. 0 dB  
+  b. +3 dB  
+  c. +5 dB  
+  d. +10 dB  
+  e. +20 dB
+
+  ```
+  E. Cisco recommends a separation of at least 19 dB, so +20 dB is the only correct
+  answer.
+  ```
+
+- An existing transmitter in your office sends its signal on 2.4-GHz channel 1. Supposethat someone in a neighboring office sets up a new wireless router. He notices yoursignal on channel 1, so he chooses channel 2 instead. Which one of the followingmight adversely affect the wireless operation?
+
+  a. Co-channel interference  
+  b. Neighboring channel interference  
+  c. Wideband interference  
+  d. Excessive SNR
+
+  ```
+  B. The two channels being used are adjacent, so their signals overlap by some
+  degree. The resulting interference is called adjacent channel interference.
+  ```
+
+- Which one of the following is the best strategy for avoiding interference betweenneighboring channels in the 2.4-GHz band?
+
+  a. Use any channel number that seems to be available  
+  b. Leverage 802.11n for 40-MHz aggregated channels  
+  c. Use only channels that are spaced four numbers apart, beginning with channel 1  
+  d. Use only channels that are spaced five numbers apart, beginning with channel 1
+
+  ```
+  D. In the 2.4-GHz band, channels 1, 6, and 11 are the only ones that are spaced far
+  enough apart (five channel numbers) that they do not overlap.
+  ```
+
+- Which one of the following is the primary cause of free space path loss?
+
+  a. Spreading  
+  b. Absorption  
+  c. Humidity levels  
+  d. Magnetic field decay
+
+  ```
+  A. Energy traveling in an electromagnetic wave spreads in three dimensions, weak-
+  ening the signal strength over a distance.
+  ```
+
+- Which one of the following has the shortest effective range in free space, assumingthat the same transmit power level is used for each?
+
+  a. An 802.11g device  
+  b. An 802.11a device  
+  c. An 802.11b device  
+  d. None of these answers
+
+  ```
+  B. The 802.11b and g devices operate at 2.4 GHz, which is less affected by free
+  space loss than the 802.11a device, at 5 GHz.
+  ```
+
+- Suppose that an 802.11a device moves away from a transmitter. As the signal strengthdecreases, which one of the following might the device or the transmitter do toimprove the signal quality along the way?
+
+  a. Aggregate more channels  
+  b. Use more radio chains  
+  c. Switch to a more complex modulation scheme  
+  d. Switch to a less-complex modulation scheme
+
+  ```
+  D. By switching to a less-complex modulation scheme, more of the data stream can
+  be repeated to overcome worsening RF conditions. This can be done automatically
+  through DRS.
+  ```
+
+- When RF signals are reflected by objects in a building, which one of the followingbest describes the result that might be experienced at a receiver?
+
+  a. Fresnel loss  
+  b. Multipath  
+  c. Cross-channel fading  
+  d. Free space path loss
+
+  ```
+  B. As a signal is reflected, a new copy travels in a different direction. Each copy of
+  the signal takes a different path to reach the receiver; thus, the name multipath.
+  ```
+
+- Which one of the following best describes the effect that a building material has as anRF signal passes through a wall?
+
+  a. Reflection  
+  b. Refraction  
+  c. Diffraction  
+  d. Absorption  
+  e. Multipath
+
+  ```
+  D. As a signal passes through a wall, the building material absorbs some of the RF
+  energy, reducing the signal strength by some amount.
+  ```
+
+- Which one of the following best describes the first Fresnel zone?
+
+  a. The area covered by one transmitter on a channel  
+  b. The area around a signal path that should be kept clear of any obstructions  
+  c. The area around a signal path that is blocked by the earth’s curvature  
+  d. The area around a transmitter that represents the range of a signal
+
+  ```
+  B. The first Fresnel zone is an elliptical area along the length of a signal path that
+  should be kept free of obstructions. When an object extends into a significant por-
+  tion of the Fresnel zone, the signal can be diffracted and distorted.
   ```
