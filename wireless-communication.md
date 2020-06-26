@@ -22,7 +22,7 @@
   port-based network access control.
   ```
 
-- which of the following represent the frequency bands commonly used for wireless
+- Which of the following represent the frequency bands commonly used for wireless
   LANs? (Choose two.)
 
   a. 2.4 MHz  
@@ -381,8 +381,7 @@
   e. 16
 
   ```
-  D. 802.11ac supports a maximum of eight spatial streams, although only three are
-  supported in Wave 1 and four in Wave 2.
+  D. 802.11ac supports a maximum of eight spatial streams, although only three are supported in Wave 1 and four in Wave 2.
   ```
 
 - Which one of the following organizations certifies 802.11 interoperability?
@@ -394,11 +393,10 @@
   e. Cisco
 
   ```
-  D. Only the Wi-Fi Alliance tests and certifies wireless products according to indus-
-  try standards.
+  D. Only the Wi-Fi Alliance tests and certifies wireless products according to industry standards.
   ```
 
-- An 802.11 transmitter is configured to send a signal on channel 11. Someone reportsa problem receiving the signal, so you investigate and find a second transmitter broad-casting on channel 11. Which one of the following best describes the problem?
+- An 802.11 transmitter is configured to send a signal on channel 11. Someone reports a problem receiving the signal, so you investigate and find a second transmitter broad-casting on channel 11. Which one of the following best describes the problem?
 
   a. Path interference.  
   b. Adjacent channel interference.  
@@ -410,7 +408,7 @@
   described as co-channel.
   ```
 
-- Suppose that you place a new 802.11n transmitter in a building, but notice that thereare other signals already coming from transmitters in the same general area. To avoidinterference problems, how much greater should your transmitter’s signal be above allof the others to provide the best signal?
+- Suppose that you place a new 802.11n transmitter in a building, but notice that there are other signals already coming from transmitters in the same general area. To avoid interference problems, how much greater should your transmitter’s signal be above all of the others to provide the best signal?
 
   a. 0 dB  
   b. +3 dB  
@@ -423,7 +421,7 @@
   answer.
   ```
 
-- An existing transmitter in your office sends its signal on 2.4-GHz channel 1. Supposethat someone in a neighboring office sets up a new wireless router. He notices yoursignal on channel 1, so he chooses channel 2 instead. Which one of the followingmight adversely affect the wireless operation?
+- An existing transmitter in your office sends its signal on 2.4-GHz channel 1. Suppose that someone in a neighboring office sets up a new wireless router. He notices your signal on channel 1, so he chooses channel 2 instead. Which one of the following might adversely affect the wireless operation?
 
   a. Co-channel interference  
   b. Neighboring channel interference  
@@ -435,7 +433,7 @@
   degree. The resulting interference is called adjacent channel interference.
   ```
 
-- Which one of the following is the best strategy for avoiding interference betweenneighboring channels in the 2.4-GHz band?
+- Which one of the following is the best strategy for avoiding interference between neighboring channels in the 2.4-GHz band?
 
   a. Use any channel number that seems to be available  
   b. Leverage 802.11n for 40-MHz aggregated channels  
@@ -455,11 +453,10 @@
   d. Magnetic field decay
 
   ```
-  A. Energy traveling in an electromagnetic wave spreads in three dimensions, weak-
-  ening the signal strength over a distance.
+  A. Energy traveling in an electromagnetic wave spreads in three dimensions, weakening the signal strength over a distance.
   ```
 
-- Which one of the following has the shortest effective range in free space, assumingthat the same transmit power level is used for each?
+- Which one of the following has the shortest effective range in free space, assuming that the same transmit power level is used for each?
 
   a. An 802.11g device  
   b. An 802.11a device  
@@ -471,7 +468,7 @@
   space loss than the 802.11a device, at 5 GHz.
   ```
 
-- Suppose that an 802.11a device moves away from a transmitter. As the signal strengthdecreases, which one of the following might the device or the transmitter do toimprove the signal quality along the way?
+- Suppose that an 802.11a device moves away from a transmitter. As the signal strength decreases, which one of the following might the device or the transmitter do to improve the signal quality along the way?
 
   a. Aggregate more channels  
   b. Use more radio chains  
@@ -484,7 +481,7 @@
   through DRS.
   ```
 
-- When RF signals are reflected by objects in a building, which one of the followingbest describes the result that might be experienced at a receiver?
+- When RF signals are reflected by objects in a building, which one of the following best describes the result that might be experienced at a receiver?
 
   a. Fresnel loss  
   b. Multipath  
@@ -496,7 +493,7 @@
   the signal takes a different path to reach the receiver; thus, the name multipath.
   ```
 
-- Which one of the following best describes the effect that a building material has as anRF signal passes through a wall?
+- Which one of the following best describes the effect that a building material has as an RF signal passes through a wall?
 
   a. Reflection  
   b. Refraction  
@@ -518,6 +515,6 @@
 
   ```
   B. The first Fresnel zone is an elliptical area along the length of a signal path that
-  should be kept free of obstructions. When an object extends into a significant por-
-  tion of the Fresnel zone, the signal can be diffracted and distorted.
+  should be kept free of obstructions. When an object extends into a significant portion of the Fresnel zone,
+  the signal can be diffracted and distorted.
   ```
