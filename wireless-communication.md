@@ -2,9 +2,10 @@
 
 > The following questions and their answers are collected from the _"CCNA Wireless 200-355"_ book.
 > They form the questions listed in the begging of the first 3 chapters of the book:
-1. RF Signals and Modulation (First PDF)
-1. RF Standards (Last PDF)
-1. RF Signals in the Real World (Second PDF)
+>
+> 1. RF Signals and Modulation (First PDF)
+> 1. RF Standards (Last PDF)
+> 1. RF Signals in the Real World (Second PDF)
 
 - Which one of the following is the common standard that defines wireless LAN
   operation?
