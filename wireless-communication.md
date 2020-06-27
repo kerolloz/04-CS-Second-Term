@@ -1,7 +1,7 @@
 # Wireless Communication
 
 > The following questions and their answers are collected from the _"CCNA Wireless 200-355"_ book.
-> They form the questions listed in the begging of the first 3 chapters of the book:
+> They form the questions listed in the beginning of the first 3 chapters of the book:
 >
 > 1. RF Signals and Modulation (First PDF)
 > 1. RF Standards (Last PDF)
