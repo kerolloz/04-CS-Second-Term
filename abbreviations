@@ -44,3 +44,12 @@ DFT == discrete Fourier transform
 DFS == Dynamic Frequency Selection
 UNII == Unlicensed National Information Infrastructure
 TG == Task Group
+PSK == Phase-shift keying
+DRS == Dynamic Rate Shifting
+FDD == Frequency Division Duplex
+TDD == Time Division Duplex
+VoIP == Voice over IP
+TTI == Transmission Time Interval
+OFDMA == Orthogonal Frequency Division Multiple Access
+SC-FDMA == Single Carrier Frequency Division Multiple Access
+BPSK == Binary Phase Shift Key

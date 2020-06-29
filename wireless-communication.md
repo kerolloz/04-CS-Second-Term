@@ -3478,60 +3478,71 @@
 
 > Sorted alphabetically
 
-|        |                                                 |
-| :----: | :---------------------------------------------- |
-|  3GPP  | 3rd Generation Partnership Project              |
-|  AMPS  | Advanced Mobile Phone Services                  |
-|  AMTS  | Advanced Mobile Telephone System                |
-|  BWA   | Broadband Wireless Access                       |
-|  CDMA  | Code-division multiple access                   |
-|  DFS   | Dynamic Frequency Selection                     |
-|  DFT   | discrete Fourier transform                      |
-| DQPSK  | Differential Quadrature Phase Shift Key         |
-|  DSSS  | Direct-Sequence Spread Spectrum                 |
-|  EDGE  | Enhanced Data for Global Evolution              |
-|  EIRP  | Effective Isotropic Radiated Power              |
-|   EM   | Electromagnetic                                 |
-|  ETS   | European Telecommunication Standards Institute  |
-|  ETSI  | European Telecommunication Standards Institute  |
-|  FCC   | Fedral Communication Commission                 |
-|  FDMA  | Frequency-division multiple access              |
-|  FHSS  | Frequency-Hopping Spread Spectrum               |
-|  GPRS  | General Packet Radio Service                    |
-|  GSM   | Global System for Mobile Communications         |
-|  HSPA  | High Speed Packet Access                        |
-|  IEEE  | Institute of Electrical and Electronic Engineer |
-|  IETF  | Internationl Engineering Task Force             |
-|  IMT   | International Mobile Telecommunications         |
-|  IMTS  | Improved Mobile Technology                      |
-|  ISM   | Industrial, Scientific, and Medical             |
-|  ISO   | International Organization for Standardization  |
-|  ITU   | International Telecommunication Union           |
-| J-TACS | Japanese Total Access Communication System      |
-|  LTE   | Long Term Evolution                             |
-|  MTD   | Mobile telephony system D                       |
-|  MTS   | Mobile Telephone System                         |
-|  NMT   | Nordic Mobile Telephone                         |
-|  OFDM  | Orthogonal Frequency-Divison Multiplexing       |
-|  OLT   | Norwegian for Landmobil Telefoni                |
-|  PTT   | Push to Talk                                    |
-|  QAM   | Quadratic Amplitude Modulation                  |
-|  QPSK  | Quadrature Phase Shift Key                      |
-|   RF   | Radio Frequency                                 |
-|  RSSI  | Received Signal Strength Indicator              |
-|  SNR   | Signal-to-Noise Ratio                           |
-|  TACS  | Total Access Communication System               |
-|  TDMA  | Time-division multiple access                   |
-|   TG   | Task Group                                      |
-|  UMTS  | Universal Mobile Telecommunication Service      |
-|  UNII  | Unlicensed National Information Infrastructure  |
-|  W3C   | World Wide Web Consortium                       |
+|         |                                                   |
+| :-----: | :------------------------------------------------ |
+|  3GPP   | 3rd Generation Partnership Project                |
+|  AMPS   | Advanced Mobile Phone Services                    |
+|  AMTS   | Advanced Mobile Telephone System                  |
+|  BPSK   | Binary Phase Shift Key                            |
+|   BWA   | Broadband Wireless Access                         |
+|  CDMA   | Code-division multiple access                     |
+|   DFS   | Dynamic Frequency Selection                       |
+|   DFT   | discrete Fourier transform                        |
+|  DQPSK  | Differential Quadrature Phase Shift Key           |
+|   DRS   | Dynamic Rate Shifting                             |
+|  DSSS   | Direct-Sequence Spread Spectrum                   |
+|  EDGE   | Enhanced Data for Global Evolution                |
+|  EIRP   | Effective Isotropic Radiated Power                |
+|   EM    | Electromagnetic                                   |
+|   ETS   | European Telecommunication Standards Institute    |
+|  ETSI   | European Telecommunication Standards Institute    |
+|   FCC   | Fedral Communication Commission                   |
+|   FDD   | Frequency Division Duplex                         |
+|  FDMA   | Frequency-division multiple access                |
+|  FHSS   | Frequency-Hopping Spread Spectrum                 |
+|  GPRS   | General Packet Radio Service                      |
+|   GSM   | Global System for Mobile Communications           |
+|  HSPA   | High Speed Packet Access                          |
+|  IEEE   | Institute of Electrical and Electronic Engineer   |
+|  IETF   | Internationl Engineering Task Force               |
+|   IMT   | International Mobile Telecommunications           |
+|  IMTS   | Improved Mobile Technology                        |
+|   ISM   | Industrial, Scientific, and Medical               |
+|   ISO   | International Organization for Standardization    |
+|   ITU   | International Telecommunication Union             |
+| J-TACS  | Japanese Total Access Communication System        |
+|   LTE   | Long Term Evolution                               |
+|   MTD   | Mobile telephony system D                         |
+|   MTS   | Mobile Telephone System                           |
+|   NMT   | Nordic Mobile Telephone                           |
+|  OFDM   | Orthogonal Frequency-Divison Multiplexing         |
+|  OFDMA  | Orthogonal Frequency Division Multiple Access     |
+|   OLT   | Norwegian for Landmobil Telefoni                  |
+|   PSK   | Phase-shift keying                                |
+|   PTT   | Push to Talk                                      |
+|   QAM   | Quadratic Amplitude Modulation                    |
+|  QPSK   | Quadrature Phase Shift Key                        |
+|   RF    | Radio Frequency                                   |
+|  RSSI   | Received Signal Strength Indicator                |
+| SC-FDMA | Single Carrier Frequency Division Multiple Access |
+|   SNR   | Signal-to-Noise Ratio                             |
+|  TACS   | Total Access Communication System                 |
+|   TDD   | Time Division Duplex                              |
+|  TDMA   | Time-division multiple access                     |
+|   TG    | Task Group                                        |
+|   TTI   | Transmission Time Interval                        |
+|  UMTS   | Universal Mobile Telecommunication Service        |
+|  UNII   | Unlicensed National Information Infrastructure    |
+|  VoIP   | Voice over IP                                     |
+|   W3C   | World Wide Web Consortium                         |
 
 *[3GPP]: 3rd Generation Partnership Project
 
 *[AMPS]: Advanced Mobile Phone Services
 
 *[AMTS]: Advanced Mobile Telephone System
+
+*[BPSK]: Binary Phase Shift Key
 
 *[BWA]: Broadband Wireless Access
 
@@ -3542,6 +3553,8 @@
 *[DFT]: discrete Fourier transform
 
 *[DQPSK]: Differential Quadrature Phase Shift Key
+
+*[DRS]: Dynamic Rate Shifting
 
 *[DSSS]: Direct-Sequence Spread Spectrum
 
@@ -3556,6 +3569,8 @@
 *[ETSI]: European Telecommunication Standards Institute
 
 *[FCC]: Fedral Communication Commission
+
+*[FDD]: Frequency Division Duplex
 
 *[FDMA]: Frequency-division multiple access
 
@@ -3593,7 +3608,11 @@
 
 *[OFDM]: Orthogonal Frequency-Divison Multiplexing
 
+*[OFDMA]: Orthogonal Frequency Division Multiple Access
+
 *[OLT]: Norwegian for Landmobil Telefoni
+
+*[PSK]: Phase-shift keying
 
 *[PTT]: Push to Talk
 
@@ -3605,16 +3624,22 @@
 
 *[RSSI]: Received Signal Strength Indicator
 
+*[SC-FDMA]: Single Carrier Frequency Division Multiple Access
+
 *[SNR]: Signal-to-Noise Ratio
 
 *[TACS]: Total Access Communication System
+
+*[TDD]: Time Division Duplex
 
 *[TDMA]: Time-division multiple access
 
 *[TG]: Task Group
 
+*[TTI]: Transmission Time Interval
+
 *[UMTS]: Universal Mobile Telecommunication Service
 
 *[UNII]: Unlicensed National Information Infrastructure
 
-*[W3C]: World Wide Web Consortium
+*[VoIP]: Voice over IP \*[W3C]: World Wide Web Consortium
