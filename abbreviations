@@ -53,3 +53,12 @@ TTI == Transmission Time Interval
 OFDMA == Orthogonal Frequency Division Multiple Access
 SC-FDMA == Single Carrier Frequency Division Multiple Access
 BPSK == Binary Phase Shift Key
+FSPL == Free Space Path loss
+PSTN == public switched telephone network
+VHF == Very High Frequency
+PDC == Personal Digital Cellular
+CSD == Circuit Switched Data
+OQPSK == Offset quadrature phase-shift keying
+O-QPSK == Offset Quadrature Phase-shift keying
+HSCSD == High Speed Circuit Switched Data
+GMSK == Gaussian Minimum Shift Keying
